@@ -1,12 +1,12 @@
 import mongoengine
 
-#mongodb://<dbuser>:<dbpassword>@ds121980.mlab.com:21980/a7-dummy
+#mongodb://<dbuser>:<dbpassword>@ds135335.mlab.com:35335/nlp-db
 
-host = "ds121980.mlab.com"
+host = "ds135335.mlab.com"
 port = 21980
-db_name = "a7-dummy"
+db_name = "nlp-db"
 username = "admin"
-password = "admin"
+password = "admin123"
 
 def connect():
     mongoengine.connect(db_name, host=host, port=port, username=username, password=password)
