@@ -7,7 +7,7 @@ pandas
 scikit-learn
 pyvi
 underthesea
-
+nltk
 # ----------------------
 # Testing
 # ----------------------
