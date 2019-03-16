@@ -1,0 +1,27 @@
+# ----------------------
+# Flask
+# ----------------------
+flask
+flask-restful
+pandas
+scikit-learn
+pyvi
+underthesea
+
+# ----------------------
+# Testing
+# ----------------------
+mock
+
+
+# ----------------------
+# Production Server
+# ----------------------
+gevent
+gunicorn
+mongoengine
+
+# ----------------------
+# Other
+# ----------------------
+youtube-dl
